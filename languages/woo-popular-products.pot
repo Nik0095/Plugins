@@ -1,0 +1,60 @@
+# Copyright (C) 2025 NikWeb
+# This file is distributed under the same license as the Woo Popular Products plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Popular Products 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-popular-products\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-07T17:27:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: woo-popular-products\n"
+
+#. Plugin Name of the plugin
+#: woo-popular-products.php
+msgid "Woo Popular Products"
+msgstr ""
+
+#. Description of the plugin
+#: woo-popular-products.php
+msgid "Display popular products based on WooCommerce user views over the last month."
+msgstr ""
+
+#. Author of the plugin
+#: woo-popular-products.php
+msgid "NikWeb"
+msgstr ""
+
+#: includes/class-wpp-shortcode.php:15
+msgid "Popular Today"
+msgstr ""
+
+#: includes/class-wpp-shortcode.php:56
+#: includes/class-wpp-widget.php:48
+msgid "No data."
+msgstr ""
+
+#: includes/class-wpp-widget.php:9
+msgid "Popular products (WooCommerce)"
+msgstr ""
+
+#: includes/class-wpp-widget.php:10
+msgid "Displays the most popular products for the last month"
+msgstr ""
+
+#: includes/class-wpp-widget.php:30
+msgid "Most popular products"
+msgstr ""
+
+#: includes/class-wpp-widget.php:42
+#, php-format
+msgid "Views: %d"
+msgstr ""
+
+#: includes/class-wpp-widget.php:59
+msgid "Number of products:"
+msgstr ""
